@@ -20,14 +20,14 @@
             android:id="@+id/imageView1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/ic_launcher_background"
+            android:src="@drawable/chrysanthemum"
             android:visibility="invisible"
             />
         <ImageView
             android:id="@+id/imageview2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/ic_launcher_foreground"
+            android:src="@drawable/desert"
             android:visibility="visible"
             />
     </FrameLayout>
